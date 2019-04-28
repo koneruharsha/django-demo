@@ -1,0 +1,12 @@
+{% extends 'base.html'%}
+{% block content %}
+<form method="post" action="{% url 'signin' %}">
+<label>username</label>
+<input type="text" name="uname" id="uname">
+    <br><br>
+    <label>password</label>
+<input type="password" name="upass" id="upass">
+    <br><br>
+<input type="submit">
+</form>
+{% endblock %}
