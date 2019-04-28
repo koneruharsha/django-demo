@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec70430-0c5c-43c4-82f6-00498b83717c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myweb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myweb/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myweb/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/myweb/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myweb_app/templates/products/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/myweb_app/templates/products/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="5ec70430-0c5c-43c4-82f6-00498b83717c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,12 +201,12 @@
       <workItem from="1556206098926" duration="3403000" />
       <workItem from="1556292287037" duration="746000" />
       <workItem from="1556399385245" duration="2035000" />
-      <workItem from="1556425161599" duration="1356000" />
+      <workItem from="1556425161599" duration="2465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7540000" />
+    <option name="totallyTimeSpent" value="8649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1200" height="652" extended-state="6" />
@@ -222,7 +217,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32755297" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991228" visible="true" weight="0.2716763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -230,7 +225,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5008772" side_tool="true" visible="true" weight="0.2716763" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32947975" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
