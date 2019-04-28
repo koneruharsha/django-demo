@@ -1,12 +1,14 @@
 {% extends 'base.html'%}
 {% block content %}
 <form method="post" action="{% url 'signin' %}">
+{% csrf_token %}
 <label>username</label>
 <input type="text" name="uname" id="uname">
     <br><br>
     <label>password</label>
 <input type="password" name="upass" id="upass">
     <br><br>
+    {{ error }}
 <input type="submit">
 </form>
 {% endblock %}

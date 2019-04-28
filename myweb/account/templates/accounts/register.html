@@ -1,13 +1,18 @@
 {% extends 'base.html'%}
 {% block content %}
 <form method="post" action="{% url 'signup' %}">
+{% csrf_token %}
 <label>username</label>
 <input type="text" name="uname" id="uname">
+    <br><br>
+    <label>email</label>
+<input type="email" name="uemail" id="uemail">
+    {{ emalerr }}
     <br><br>
     <label>password</label>
 <input type="password" name="upass" id="upass">
     <br><br>
-
+{{ perror }}
     <label>conform</label><br><label> password</label>
 <input type="password" name="cupass" id="cupass">
     <br><br>
